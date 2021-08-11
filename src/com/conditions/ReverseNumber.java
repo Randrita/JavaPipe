@@ -19,3 +19,4 @@ public class ReverseNumber {
         System.out.println("array in reverse :"+ ans);
     }
 }
+
